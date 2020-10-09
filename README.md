@@ -56,9 +56,9 @@ Installation:
  
  In the /summernote/plugins/filebrowser/filemanager.php:
  ```php
- $custom_prices = array("folder" => "/prices", "prefix" => "pr", "size" => "200", "foldercreate" => "yes"); when uploading a file to the "prices" directory, the prefix "pr" will be added to the file name, image size will be reduced to 200 px, it is possible to create a new folder.
+ $custom_prices = array("folder" => "/prices", "prefix" => "pr", "size" => "200", "foldercreate" => "yes"); 
   ```
-
+When uploading a file to the "prices" directory, the prefix "pr" will be added to the file name, image size will be reduced to 200 px, it is possible to create a new folder.
   
  Attention! This script was created for a project, support is limited (3 years ago). 
   
