@@ -13,8 +13,8 @@ Features:
 - Create folder;
 - Password and CSRF protection; 
 
-![Summernote filemanager](https://github.com/StanislavDK/PHPFilemanager4Summernote/blob/main/1.png "Орк")
 ![Summernote filemanager](https://github.com/StanislavDK/PHPFilemanager4Summernote/blob/main/2.png "Орк")
+![Summernote filemanager](https://github.com/StanislavDK/PHPFilemanager4Summernote/blob/main/1.png "Орк")
 
 
 Installation:
