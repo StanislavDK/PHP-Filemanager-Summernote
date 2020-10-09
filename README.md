@@ -18,6 +18,7 @@ Installation:
   <script src="/summernote/plugins/filebrowser/filemanager.js"></script>
 
   <div id="summernote"><p>Hello Summernote</p></div>
+  
   <script>
     $(document).ready(function() {
         $('#summernote').summernote({
