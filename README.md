@@ -14,10 +14,11 @@ Features:
 Installation:
 
 1. On the page where the summernote is called:
-  
+  ```html
   <script src="/summernote/plugins/filebrowser/filemanager.js"></script>
 
   <div id="summernote"><p>Hello Summernote</p></div>
+```
   ```javascript
   <script>
     $(document).ready(function() {
