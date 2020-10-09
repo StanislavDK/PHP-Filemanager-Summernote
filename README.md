@@ -46,12 +46,16 @@ Installation:
   $base_dir - directory for download
   
  Optional:
-  $custom_prices = array("folder" => "/prices", "prefix" => "pr", "size" => "200", "foldercreate" => "yes"); 
-  - when uploading a file to the "prices" directory, the prefix "pr" will be added to the file name, image size will be reduced to 200 px, it is possible to create a new folder.
+ 
+ <iframe width=100% height=450px style="border:0" id="iframe" src="/manager/plugins/summernote/plugins/filebrowser/filemanager.php?folder=prices&subfolder='+    Price_Name +'&namefile='+ NameFile +'&returnid=price_setting  " id="eframe" class="eframe"></iframe>
+ 
+ returnid - returned item id #
+ 
+ In the /summernote/plugins/filebrowser/filemanager.php:
+ 
+ $custom_prices = array("folder" => "/prices", "prefix" => "pr", "size" => "200", "foldercreate" => "yes"); when uploading a file to the "prices" directory, the prefix "pr" will be added to the file name, image size will be reduced to 200 px, it is possible to create a new folder.
   
-<iframe width=100% height=450px style="border:0" id="iframe" src="/manager/plugins/summernote/plugins/filebrowser/filemanager.php?folder=prices&subfolder='+    Price_Name +'&namefile='+ NameFile +'&returnid=price_setting  " id="eframe" class="eframe"></iframe>
+
   
-returnid - returned item id #
-  
-  This script was created for a project, support is limited (3 years ago). 
+ Attention! This script was created for a project, support is limited (3 years ago). 
   
