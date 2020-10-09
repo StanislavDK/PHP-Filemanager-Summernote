@@ -13,6 +13,9 @@ Features:
 - Create folder;
 - Password and CSRF protection; 
 
+![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+
+
 Installation:
 
 1. On the page where the summernote is called:
