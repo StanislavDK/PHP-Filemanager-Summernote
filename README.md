@@ -18,7 +18,7 @@ Installation:
   <script src="/summernote/plugins/filebrowser/filemanager.js"></script>
 
   <div id="summernote"><p>Hello Summernote</p></div>
-  
+  ```javascript
   <script>
     $(document).ready(function() {
         $('#summernote').summernote({
@@ -35,7 +35,7 @@ Installation:
       });
     });
   </script>
-  
+ ``` 
 2. In the /summernote/plugins/filebrowser/filemanager.js, you must change the name of the element summernote (in example "#summernote").
 3. In the /summernote/plugins/filebrowser/filemanager.php:
   $disallowed_extensions - array with forbidden extensions
