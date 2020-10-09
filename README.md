@@ -9,7 +9,8 @@ Features:
 - Resize images depending on the destination folder; 
 - Preview downloaded images;
 - Delete, rename files;
-- Search file
+- Search file;
+- Create folder
 
 Installation:
 
