@@ -39,6 +39,7 @@ Installation:
  ``` 
 2. In the /summernote/plugins/filebrowser/filemanager.js, you must change the name of the element summernote (in example "#summernote").
 3. In the /summernote/plugins/filebrowser/filemanager.php:
+```php
   $disallowed_extensions - array with forbidden extensions
   $allowed_extensions - array with allowed extensions
   $images_extensions - array with image extensions
@@ -46,7 +47,7 @@ Installation:
   $custom_folder - an array with individual parameters for images of a specific folder (size, prefix, the ability to create new folders) 
   $PASSWORD - if set, a password will be requested
   $base_dir - directory for download
-  
+```javascript  
  Optional:
  
  <iframe width=100% height=450px style="border:0" id="iframe" src="/manager/plugins/summernote/plugins/filebrowser/filemanager.php?folder=prices&subfolder='+    Price_Name +'&namefile='+ NameFile +'&returnid=price_setting  " id="eframe" class="eframe"></iframe>
