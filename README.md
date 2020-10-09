@@ -10,7 +10,8 @@ Features:
 - Preview downloaded images;
 - Delete, rename files;
 - Search file;
-- Create folder
+- Create folder;
+- Password and CSRF protection; 
 
 Installation:
 
