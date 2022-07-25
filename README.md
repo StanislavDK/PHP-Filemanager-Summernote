@@ -1,5 +1,5 @@
 # PHP Filemanager Summernote
-Lightweight AJAX (PHP, JQuery) file manager for summernote
+Lightweight AJAX (PHP, JQuery) File Manager for Summernote
 
 This script is a lightweight and simple File Manager plugin for the Summernote. Written in php using bootstrap and jquery. 
 It is based on scripts https://github.com/jcampbell1/simple-file-manager, http://github.com/jamiebicknell/Thumb, https://github.com/zpalffy/preview-image-jquery, https://github.com/gumlet/php-image-resize/.
